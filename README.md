@@ -6,7 +6,8 @@ No Javascript is being used. Written in little over 20 lines of CSS (can be even
 
 You simply wrap your word or phrase using a `<span>` tag and set the `data-tooltip` attribute, like so:
 
-    This is a paragraph that contains <span data-tooltip="Text is usually a collection of words">text</span> and other bits and bobs.
+    This is a paragraph that contains <span data-tooltip="Text is usually a collection of words">text</span> 
+    and other bits and bobs. There's nothing out of the ordinary here.
 
 CSS takes care of the rest.
 
