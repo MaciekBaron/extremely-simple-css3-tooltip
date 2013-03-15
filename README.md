@@ -2,7 +2,7 @@ extremely-simple-css3-tooltip
 =============================
 
 An extremely simple CSS3 tooltip solution which is supported by browsers that understand `attr()`.
-No Javascript is being used.
+No Javascript is being used. Written in little over 20 lines of CSS (can be even shorter depending on style).
 
 You simply wrap your word or phrase using a `<span>` tag and set the `data-tooltip` attribute, like so:
 
