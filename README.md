@@ -11,4 +11,4 @@ You simply wrap your word or phrase using a `<span>` tag and set the `data-toolt
 
 CSS takes care of the rest.
 
-View an extremely simple [demo](http://htmlpreview.github.com/?http://github.com/MaciekBaron/extremely-simple-css3-tooltip/blob/master/example.html).
+View an extremely simple [demo](http://rawgit.com/MaciekBaron/extremely-simple-css3-tooltip/master/example.html).
